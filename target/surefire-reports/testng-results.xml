@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-24T05:03:10 WIB" name="Annotation Execution Suite" finished-at="2025-02-24T05:03:10 WIB" duration-ms="18">
+    <groups>
+    </groups>
+    <test started-at="2025-02-24T05:03:10 WIB" name="MyTestGroup" finished-at="2025-02-24T05:03:10 WIB" duration-ms="18">
+      <class name="ParalelTestNG2">
+        <test-method signature="scenarioTest1()[pri:0, instance:ParalelTestNG2@40e6dfe1]" started-at="2025-02-24T05:03:10 WIB" name="scenarioTest1" finished-at="2025-02-24T05:03:10 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioTest1 -->
+        <test-method signature="scenarioTest2()[pri:0, instance:ParalelTestNG2@40e6dfe1]" started-at="2025-02-24T05:03:10 WIB" name="scenarioTest2" finished-at="2025-02-24T05:03:10 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioTest2 -->
+        <test-method signature="scenarioTest3()[pri:0, instance:ParalelTestNG2@40e6dfe1]" started-at="2025-02-24T05:03:10 WIB" name="scenarioTest3" finished-at="2025-02-24T05:03:10 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioTest3 -->
+      </class> <!-- ParalelTestNG2 -->
+      <class name="ParalelTestNG">
+        <test-method signature="scenarioTest1()[pri:0, instance:ParalelTestNG@35083305]" started-at="2025-02-24T05:03:10 WIB" name="scenarioTest1" finished-at="2025-02-24T05:03:10 WIB" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioTest1 -->
+        <test-method signature="scenarioTest2()[pri:0, instance:ParalelTestNG@35083305]" started-at="2025-02-24T05:03:10 WIB" name="scenarioTest2" finished-at="2025-02-24T05:03:10 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioTest2 -->
+        <test-method signature="scenarioTest3()[pri:0, instance:ParalelTestNG@35083305]" started-at="2025-02-24T05:03:10 WIB" name="scenarioTest3" finished-at="2025-02-24T05:03:10 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioTest3 -->
+      </class> <!-- ParalelTestNG -->
+    </test> <!-- MyTestGroup -->
+  </suite> <!-- Annotation Execution Suite -->
+</testng-results>
